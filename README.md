@@ -17,7 +17,7 @@ An analysis and visualization project that explores salary trends in the data sc
 ### [Airline Review Prediction - NLP](https://github.com/Alfarabi58/Deep-Learning/tree/main/Airline%20Review%20Prediction%20-%20NLP)
 This project uses Natural Language Processing (NLP) to analyze and predict sentiments from airline reviews. The goal is to help airlines understand passenger feedback and improve their services.
 
-### [Health Care Prediction - Classfitication](https://github.com/Alfarabi58/Machine-Learning/tree/main/Health%20Care%20Prediction%20-%20Classification)
+### [Health Care Prediction - Classification](https://github.com/Alfarabi58/Machine-Learning/tree/main/Health%20Care%20Prediction%20-%20Classification)
 The Health Care Prediction project aims to classify patients' health status based on various medical parameters. The goal is to predict the likelihood of certain health conditions, enabling early intervention and better healthcare management.
 
 ## Skills
