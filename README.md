@@ -18,7 +18,7 @@ An analysis and visualization project that explores salary trends in the data sc
 This project uses Natural Language Processing (NLP) to analyze and predict sentiments from airline reviews. The goal is to help airlines understand passenger feedback and improve their services.
 
 ### [Health Care Prediction - Classfitication](https://github.com/Alfarabi58/Machine-Learning/tree/main/Health%20Care%20Prediction%20-%20Classification)
-A comprehensive collection of machine learning projects utilizing the Scikit-Learn library. These projects cover various algorithms and techniques, demonstrating practical applications of machine learning.
+The Health Care Prediction project aims to classify patients' health status based on various medical parameters. The goal is to predict the likelihood of certain health conditions, enabling early intervention and better healthcare management.
 
 ## Skills
 
@@ -36,8 +36,8 @@ A comprehensive collection of machine learning projects utilizing the Scikit-Lea
 ### [Deep Learning Models](https://github.com/Alfarabi58/Deep-Learning)
 Exploring various deep learning models and their applications in different domains, including image classification, natural language processing, and more.
 
-### [Data Analysis with Pandas](https://github.com/Alfarabi58/Data-Analysis/tree/main/Pandas)
-A series of projects demonstrating data analysis techniques using the Pandas library in Python. These projects include data cleaning, transformation, and visualization.
+### [Machine Learning Models](https://github.com/Alfarabi58/Machine-Learning/tree/main)
+Machine learning is a subset of artificial intelligence that enables computers to learn from and make predictions or decisions based on data without being explicitly programmed.
 
 ## Get in Touch
 
