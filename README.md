@@ -47,6 +47,10 @@ I'm always open to collaborating on interesting projects and discussing new idea
 
 If you find my projects interesting or useful, contributions are welcome! Feel free to fork the repository and submit a pull request.
 
+## GitHub Stats 📊
+
+![Alfarabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfarabi58&show_icons=true&theme=radical)
+
 ## Thank You! 🙏
 
 Thank you for visiting my GitHub profile. I hope you find my projects helpful and inspiring. Happy coding!
