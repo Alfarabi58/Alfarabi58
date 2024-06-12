@@ -1,6 +1,6 @@
 # Welcome to Alfarabi GitHub Profile!
 
-Hello! I'm Alfarabi, a passionate data scientist and machine learning enthusiast. Here, you'll find a collection of my projects ranging from deep learning applications to data analysis and visualization. I enjoy exploring new technologies and applying them to solve real-world problems.
+Hello! I'm Alfarabi, I am a passionate and dedicated Data Scientist with an industrial engineering background, with expertise in statistics, machine learning, and data visualization using tools such as Python and SQL that I have learned at Hactiv8. I have extensive experience in solving complex problems and transforming data into implementable strategies, including in projects such as predictive modeling, natural language processing, and data-driven business strategy development, as well as strong analytical capabilities to convey findings to non-technical stakeholders, ensuring data-driven insights are accessible and actionable to achieve significant impact.
 
 ## About Me
 
