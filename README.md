@@ -11,13 +11,13 @@ Hello! I'm Alfarabi, a passionate data scientist and machine learning enthusiast
 
 ## Featured Projects
 
-### [Airline Review Prediction - NLP](https://github.com/Alfarabi58/Deep-Learning/tree/main/Airline%20Review%20Prediction%20-%20NLP)
-This project uses Natural Language Processing (NLP) to analyze and predict sentiments from airline reviews. The goal is to help airlines understand passenger feedback and improve their services.
-
 ### [Data Science Salaries - Visualization](https://github.com/Alfarabi58/Python-PostgreSQL/tree/main/Data%20Science%20Salaries%20-%20Visualization)
 An analysis and visualization project that explores salary trends in the data science field using Python and PostgreSQL. The project aims to provide insights into how salaries vary by factors such as location, job title, experience level, and industry.
 
-### [Machine Learning with Scikit-Learn](https://github.com/Alfarabi58/Machine-Learning/tree/main/Scikit-Learn)
+### [Airline Review Prediction - NLP](https://github.com/Alfarabi58/Deep-Learning/tree/main/Airline%20Review%20Prediction%20-%20NLP)
+This project uses Natural Language Processing (NLP) to analyze and predict sentiments from airline reviews. The goal is to help airlines understand passenger feedback and improve their services.
+
+### [Health Care Prediction - Classfitication](https://github.com/Alfarabi58/Machine-Learning/tree/main/Health%20Care%20Prediction%20-%20Classification)
 A comprehensive collection of machine learning projects utilizing the Scikit-Learn library. These projects cover various algorithms and techniques, demonstrating practical applications of machine learning.
 
 ## Skills
