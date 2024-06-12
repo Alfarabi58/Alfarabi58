@@ -43,6 +43,13 @@ Exploring various deep learning models and their applications in different domai
 
 I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alfa-rabi-49b9b8285/) or [email](alfarabi5898@gmail.com).
 
+<p align="left">
+<a href="https://github.com/adhyarya51">
+<img height="171em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhyarya51&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="171em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhyarya51&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Contribution
 
 If you find any of my projects interesting or useful, contributions are welcome! You can fork the repository, make your changes, and submit a pull request. Don't hesitate to open an issue if you have any questions or suggestions.
