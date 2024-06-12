@@ -7,7 +7,7 @@ Hello! I'm Alfarabi, a passionate data scientist and machine learning enthusiast
 - **Name**: Alfarabi
 - **Profession**: Data Scientist
 - **Interests**: Machine Learning, Deep Learning, Natural Language Processing, Data Visualization
-- **Contact**: [LinkedIn](https://www.linkedin.com/in/alfarabi58), [Email](mailto:alfarabi58@example.com)
+- **Contact**: [LinkedIn](https://www.linkedin.com/in/alfa-rabi-49b9b8285/), [Email](alfarabi5898@gmail.com)
 
 ## Featured Projects
 
@@ -38,7 +38,7 @@ A series of projects demonstrating data analysis techniques using the Pandas lib
 
 ## Get in Touch
 
-I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alfarabi58) or [email](mailto:alfarabi58@example.com).
+I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alfa-rabi-49b9b8285/) or [email](alfarabi5898@gmail.com).
 
 ## Contribution
 
