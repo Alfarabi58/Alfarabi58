@@ -1,4 +1,4 @@
-# Welcome to Alfarabi58's GitHub Profile!
+# Welcome to Alfarabi GitHub Profile!
 
 Hello! I'm Alfarabi, a passionate data scientist and machine learning enthusiast. Here, you'll find a collection of my projects ranging from deep learning applications to data analysis and visualization. I enjoy exploring new technologies and applying them to solve real-world problems.
 
