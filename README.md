@@ -22,11 +22,14 @@ A comprehensive collection of machine learning projects utilizing the Scikit-Lea
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, R
-- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Jupyter Notebooks, Git, Docker
+- **General Skills**: Exploratory Data Analysis, Time Series Analysis, Machine Learning, Cloud ETL.
+- **Programming Language**: Python, SQL.
+- **Visualization Tools**: Tableau, Kibana.
+- **Libraries / Framework**: TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Feature-Engine.
+- **Tools**: Docker, Apache Airflow, PostgreSQL, ElasticSearch. 
+- **Techniques**: NLP, Computer Vision, Time Series Analysis, Forecasting.
+- **Modeling Algorithms**: Regression, Random Forest, Decision Trees, Neural Networks, Clustering, and Dimensionality Reduction.
+- **Others**: Google BigQuery, Hugging Face, and Amazon Web Services (Explore). 
 
 ## Recent Activity
 
