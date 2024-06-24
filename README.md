@@ -5,7 +5,7 @@ Hello! I'm Alfarabi, a passionate and dedicated Data Scientist with a background
 ## About Me ℹ️
 
 - **Name**: Alfarabi
-- **Profession**: Data Scientist
+- **Profession**: Data Scientist | Data Analyst
 - **Interests**: Machine Learning, Deep Learning, Natural Language Processing, Data Visualization
 - **Contact**: [LinkedIn](https://www.linkedin.com/in/alfa-rabi-49b9b8285/), [Email](mailto:alfarabi5898@gmail.com)
 
